@@ -1,0 +1,9 @@
+~$vOps Assessment Project.docx
+Calculations/
+DevOps Assessment Project.docx
+logfile.txt
+script1.sh*
+script2.sh*
+script3.sh*
+Vagrantfile
+bash: sudo: command not found
